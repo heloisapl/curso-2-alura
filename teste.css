@@ -1,0 +1,16 @@
+.cabecalho{
+
+}
+.titulo{
+    color: pink;
+    font-size: 50px;
+    background-color: black;
+    
+}
+.titulo-dois{
+   text-align: center;
+}
+.paragrafo {
+    text-align: center ;
+    background-color: lightblue;
+}
